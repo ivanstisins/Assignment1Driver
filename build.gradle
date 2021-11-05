@@ -15,7 +15,7 @@ dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
     implementation 'org.terasoluna.gfw:terasoluna-gfw-jodatime:5.7.0.RELEASE'
-    implementation 'com.github.ivanstisins:CT417-Assignment1:1.2'
+    implementation 'com.github.ivanstisins:CT417-Assignment1:1.3'
 }
 
 test {
